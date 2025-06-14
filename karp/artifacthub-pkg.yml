@@ -5,7 +5,7 @@ createdAt: '2025-06-13T12:00:00Z'
 logoURL: 'https://raw.githubusercontent.com/headlamp-k8s/plugins/main/opencost/logo.png'
 description: A Headlamp plugin for visualizing Karpenter's autoscaling decisions.
 annotations:
-  headlamp/plugin/archive-url: 'https://github.com/SinghaAnirban005/headlamp/releases/download/v1.0.0/karp-0.1.0.tar.gz'
-  headlamp/plugin/archive-checksum: 'SHA256:5f5bcd36c5dcbae85690b7b71cb69cb447eb091fc3bf85bbfd2bcefb8f18f75f'
+  headlamp/plugin/archive-url: 'https://github.com/SinghaAnirban005/headlamp/releases/download/v1.0.0/Karpenter-0.1.0.tar.gz '
+  headlamp/plugin/archive-checksum: 'SHA256:7a355984f2101684dba4959db236f78b255ad47f142949a214ff08f3bf343308'
   headlamp/plugin/version-compat: '>=0.31.0'
-  headlamp/plugin/distro-compat: 'web, desktop'
+  headlamp/plugin/distro-compat: 'in-cluster,web,docker-desktop,desktop'
