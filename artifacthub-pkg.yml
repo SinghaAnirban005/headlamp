@@ -2,7 +2,7 @@ version: 1.0.0
 name: karpenter
 displayName: Karpenter
 createdAt: "2025-06-13T12:00:00Z"
-logoURL: ""
+logoURL: https://github.com/SinghaAnirban005/headlamp/blob/plugins/karp/logo.png
 description: A Headlamp plugin for visualizing Karpenter's autoscaling decisions.
 annotations:
   headlamp/plugin/archive-url: https://github.com/SinghaAnirban005/headlamp/releases/download/v1.0.0/karp-0.1.0.tar.gz
